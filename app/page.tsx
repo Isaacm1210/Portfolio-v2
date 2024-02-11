@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <NavBar />
       <Socials />
-      <main className="">
+      <main className="bg-main-gradient">
       <Content />
 
       </main>

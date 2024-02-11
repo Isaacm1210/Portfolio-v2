@@ -1,6 +1,6 @@
 export default function About() {
     return(
-    <section id="about" className="pt-56 h-screen m-auto ">
+    <section id="about" className="h-128h m-auto pt-20 bg-section-gradient">
         <h2 className="text-3xl font-medium"><span className="text-green">01. </span>About Me</h2>
         <p className="text-left text-base w-full ml-0">
             During my studies I gained in extensive knowledge and experience in a variety of different modern
