@@ -1,14 +1,16 @@
 import Image from "next/image";
 import NavBar from "./ui/nav-bar";
 import Socials from "./ui/social";
+import Content from "./ui/content";
 export default function Home() {
   return (
-    <main className="">
-      <NavBar/>
-      <Socials/>
-      <div>
+    <div>
+      <NavBar />
+      <Socials />
+      <main className="">
+      <Content />
 
-      </div>
-    </main>
+      </main>
+    </div>
   );
 }
