@@ -4,12 +4,12 @@ import Socials from "./ui/social";
 import Content from "./ui/content";
 export default function Home() {
   return (
-    <div>
+    <div className="min-w-80">
       <NavBar />
       <Socials />
       <main className="bg-main-gradient">
       <Content />
-
+      
       </main>
     </div>
   );

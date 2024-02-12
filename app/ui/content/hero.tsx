@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-        <section id="hero" className="pt-32 mt-20h h-128h m-auto ">
+        <section id="hero" className="pt-32 mt-20h h-128h m-auto w-2/5 min-w-80">
             <h4 className="text-green">Hi, my name is </h4>
             <div className="flex items-center ">
                 <div className="h-px w-1/3 bg-white"></div>
