@@ -1,6 +1,6 @@
 export default function About() {
     return (
-        <section id="about" className="w-2/5 min-w-80 h-128h m-auto pt-20 ">
+        <section id="about" className="w-2/5 min-w-80 h-128h m-auto pt-32 min-h-2xl">
             <h2 className="text-3xl font-medium mb-5 font"><span className="text-green">01. </span>About Me</h2>
             <p className="text-left text-base w-full ml-0">
                 During my studies I gained in extensive knowledge and experience in a variety of different modern
@@ -8,7 +8,7 @@ export default function About() {
                 frameworks and database technologies. I love a good challenge and solving complex problems, I
                 believe that is the best way for me to enhance both my technical and business skills.
             </p>
-            <div className="flex flex-col justify-evenly h-1/3">
+            <div className="flex flex-col justify-evenly h-1/3 m-5">
                 <h3 className="text-center text-lg font-semibold">My Tools</h3>
                 <ul className="grid grid-cols-2 gap-y-2 gap-x-8">
                     <li className="text-right">Java <i className="devicon-java-plain"></i></li>

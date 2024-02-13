@@ -19,13 +19,25 @@ const config: Config = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        green: '#33ffaa',
-        buttonfade: '#33ffaa1a',
-        white: "#ffffff",
+        "green": '#33ffaa',
+        "buttonfade": '#33ffaa1a',
+        "white-2": "rgba(255,255,255,0.027)",
+        "nav": "rgba(255,255,255,0.03)"
       },
       spacing: {
         '128h': '90vh',
-        '20h': '20vh'
+        '20h': '20vh',
+        '2xl': "700px"
+      },
+      borderWidth: {
+        '1/2': "0.5px"
+      },
+      screens: {
+        'md2': '960px',
+        '2xl': "700px"
+      },
+      boxShadow: {
+        'glow' : '0 0 5px 2px rgba(255, 255, 255, 0.5)'
       }
     },
 
