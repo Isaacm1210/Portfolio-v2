@@ -5,7 +5,7 @@ export default function NavBar() {
     }
     return (
         <div className="w-full fixed flex justify-end items-center py-3 backdrop-blur bg-nav">
-         <div className="h-max w-max mr-auto ml-7"><a className="hover:cursor-pointer" href="#hero">Isaac M'hamed</a></div>
+         <a className="h-6 w-32 mr-auto ml-7 hover:cursor-pointer" href="#hero" >Isaac M'hamed</a>
             <nav className="w-1/3 mx-4 max-md:hidden">
                 <ul className="list-none flex justify-between w-full text-green">
                     <li className="hover:translate-y-1 transition-all">01. <a className="hover:cursor-pointer no-underline text-white" href="#about">About</a></li>
