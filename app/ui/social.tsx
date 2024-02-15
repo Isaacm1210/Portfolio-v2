@@ -5,7 +5,7 @@ export default function Socials(){
             <ul className="h-auto m-auto">
                 <li className="w-px h-16 bg-white my-1 mx-auto" ></li>
                 <li className="m-auto p-2.5 h-10 w-10 hover:translate-y-1 transition bg-blueGradient">
-                    <a href="https://www.linkedin.com/in/isaac-m-hamed-a0402b1b7/" target="_blank">
+                    <a href="https://www.linkedin.com/in/is-haq-m-hamed-a0402b1b7/" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                             className="bi bi-linkedin" viewBox="0 0 16 16">
                             <path

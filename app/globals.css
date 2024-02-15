@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+*{
+  cursor: default;
+}
+
 html{
   box-sizing: border-box;
   width: 100%;
