@@ -3,7 +3,7 @@ import { Inter, Roboto, Montserrat } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
-const roboto = Montserrat({subsets: ["latin"], weight: ["400", "700"]})
+const roboto = Montserrat({subsets: ["latin"], weight: ["400", "500", "700"]})
 
 export const metadata: Metadata = {
   title: "Isaac Mhamed | Developer",

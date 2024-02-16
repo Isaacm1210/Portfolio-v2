@@ -28,7 +28,8 @@ const config: Config = {
       spacing: {
         '128h': '90vh',
         '20h': '20vh',
-        '2xl': "700px"
+        '2xl': "700px",
+        "204": '204px'
       },
       borderWidth: {
         '1/2': "0.5px"
