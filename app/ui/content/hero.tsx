@@ -4,7 +4,7 @@ export default function Hero() {
             <h4 className="text-green">Hi, my name is </h4>
             <div className="flex items-center ">
                 <div className="h-px w-1/3 bg-white"></div>
-                <h1 className="text-5xl min-w-96 w-1/3 text-center font-semibold max-md2:text-4xl max-md2:min-w-80">Isaac Mhamed</h1>
+                <h1 className="text-5xl min-w-96 w-1/3 text-center font-semibold max-md2:text-4xl max-md2:min-w-80">Isaac M&apos;hamed</h1>
                 <div className="h-px w-1/3 bg-white "></div>
             </div>
             <p className="w-10/12 m-auto text-center">I am a recent graduate based in Calgary Canada with a passion for creating complex
