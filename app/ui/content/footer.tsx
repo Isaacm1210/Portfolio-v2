@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         <div className="w-2/3 m-auto text-center text-sm my-4">
-            Designed and Developed by <b>Isaac (Is-haq) M'hamed</b>
+            Designed and Developed by <b>Isaac (Is-haq) M`'`hamed</b>
             <p>
                 Developed using Next.JS, Typescript and styled with Tailwind CSS
             </p>
